@@ -53,7 +53,7 @@ A fin de integrar el nuevo portal con el sistema anterior se incorpora el patró
 
 ## Diagrama
 
-![Diagrama](./solucion.drawio.svg)
+![image](https://github.com/user-attachments/assets/433d1919-a291-48ef-9e7f-7a5ff0372ac4)
 
 ## DECICIONES DE ARQUITECTURA
 
